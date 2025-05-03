@@ -5,3 +5,5 @@ function sumar(a, b) {
 function restar(a, b) {
   return a - b;
 }
+
+// Se agregan cometarios para explicar el código
